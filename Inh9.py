@@ -11,7 +11,6 @@ class Second (First):
 
 if __name__ == "__main__":
     obj = Second()
-
     r= obj
     r.a()
     r.b()
