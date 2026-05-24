@@ -15,3 +15,9 @@ if __name__ == "__main__":
     r.a()
     r.b()
     r.c()
+
+
+Output:
+inside method a
+Inside method b
+Inside method c
