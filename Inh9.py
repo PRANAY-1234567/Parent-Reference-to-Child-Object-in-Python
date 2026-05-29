@@ -16,7 +16,6 @@ if __name__ == "__main__":
     r.b()
     r.c()
 
-
 Output:
 inside method a
 Inside method b
