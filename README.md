@@ -198,4 +198,5 @@ Understanding references is important for:
 This project is open-source and free to use.
 
 <img width="1021" height="730" alt="image" src="https://github.com/user-attachments/assets/6e888948-03c5-4caf-a219-372343ff8aed" />
+
 <img width="1021" height="730" alt="image" src="https://github.com/user-attachments/assets/fc5ef99e-3ac7-4ca0-9dea-9e15ad4cca5d" />
